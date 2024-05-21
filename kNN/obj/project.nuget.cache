@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8yhiY+rM0dvWLGTERIDvR0PxaOFeh5WcRS7Qn/9FRDELQ3RqYiPA7szM3xqBsdf63nFGaoOFDfkVDnK0DoNQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\kNN\\kNN\\kNN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\arfftools\\1.1.3\\arfftools.1.1.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
